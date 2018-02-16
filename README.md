@@ -2,7 +2,7 @@
 Trains FFNN to predict the image from a given title
 
 # Requirements
-This program reguires Tensoflor
+This program reguires Tensoflow
 
 # Instructions
 
